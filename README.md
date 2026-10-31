@@ -1,1 +1,1 @@
-# emotion-detector
+EmotionDetection/__init__.py
